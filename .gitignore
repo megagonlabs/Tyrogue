@@ -1,0 +1,5 @@
+
+*.DS_Store
+*.pyc
+*/.ipynb_checkpoints/*
+experiments/existing_method/sst-2/al_bert_random_50/42_cls/results_of_iteration.json
