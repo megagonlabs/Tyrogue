@@ -1,7 +1,7 @@
 # Low-budget Active Learning
 <!-- This work is mainly done during Seiji's winter internship. -->
 
-In this work (presented at [EMNLP Findings 2022](https://aclanthology.org/2022.findings-emnlp.235)), we propose a novel yet simple acquisition function for low-budget active learning.
+In this work ("Low-resource Interactive Active Labeling for Fine-tuning Language Models" presented at [EMNLP Findings 2022](https://aclanthology.org/2022.findings-emnlp.235)), we propose a novel yet simple acquisition function for low-budget active learning.
 A major characteristic of our function is to overcome sample redundancy problems that existing methods suffer from.
 This repository covers ours and other baselines including the state-of-the-art methods.
 
